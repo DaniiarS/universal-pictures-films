@@ -1,1 +1,1 @@
-# universal-pictures-films is a script that parses through the Universal Pictures Films movies and creates a database with the movie data
+# universal-pictures-films project contains a script that parses the Universal Pictures Films movies' titles from Wikipedia page, uses OMDB API to query information realted to the year of release, director, budget etc., and creates a database with those movies.
